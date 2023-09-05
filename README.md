@@ -9,7 +9,7 @@ In this assignment you will build a web based application to track data about au
 
 ![on_userside](https://github.com/rohanh007/Autograder/assets/77897898/bfbdc804-aca8-4dba-b0d3-465dc35c23e5)
 
-![serverside_list](https://github.com/rohanh007/Autograder/assets/77897898/c7337ba1-b770-49ff-845a-1113a3de7aef)
+![server](https://github.com/rohanh007/Autograder/assets/77897898/f0616322-90d7-4c62-9fa7-e19e5d029e72)
 
 ![login](https://github.com/rohanh007/Autograder/assets/77897898/4383be40-c584-43cc-ab59-c79e6268832e)
 
